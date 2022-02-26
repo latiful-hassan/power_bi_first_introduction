@@ -57,4 +57,14 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ### DIM Age
 
-- 
+- Created a **Reference** from *population-combined* to create a *Dim-Age* table
+- Removed duplicates
+- Created a new **Index Column** starting from 1 called *Age ID*
+- Created a new column called *Age Group Max* based on the *Age Group* by using **Extract**
+- Created a **Conditional Column** to add aage categories based on *Age Group Max*
+
+- A sample of the finished *DIM-Age* table:
+
+![]()
+
+
