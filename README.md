@@ -22,8 +22,13 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
   * Changed data types
   * Handled errors
 
-- This is how the appended data looks like now:
+- After basic formatting:
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/population_combined_formatted_p1.png)
 
+- **Unpivoted** *Population Male* and *Population Female* columns
+- Split the **Attribute** column 
 
+- After unpivoting:
+
+![]()
