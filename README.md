@@ -22,4 +22,6 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
   * Handled errors
 
 This is how the appended data looks like now:
-![]()
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/population_combined_formatted_p1.png)
+
+
