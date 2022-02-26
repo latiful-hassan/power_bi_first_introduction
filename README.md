@@ -1,4 +1,4 @@
-# power_bi_first_introduction
+# power_bi_introduction
 
 Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** and **Data Visualisation** using **Power BI** for the first time.
 
