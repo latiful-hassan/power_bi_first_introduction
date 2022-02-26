@@ -4,6 +4,8 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ## **Data Preparation**
 
+The raw data needs to be cleaned and formatted before we can proceed with visualisation/analysis.
+
 - Open **Power Query** and connect to *population-1950-1999*, *population-2000-2049* and *population-2050-2100*
 
 - Below is an example of the raw data from 1950-1999:
@@ -35,7 +37,7 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ## **Data Modeling**
 
-I will be creating a ***Star Schema*** to create the data model, below are the steps taken.
+I will be using a ***Star Schema*** to create the data model, below are the steps taken.
 
 ### DIM Region
 
