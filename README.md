@@ -75,4 +75,4 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 - A sample of the finished *FACT-Population* table:
 
-![]()
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/FACT_population.png)
