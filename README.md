@@ -2,7 +2,7 @@
 
 Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** and **Data Visualisation** using **Power BI** for the first time.
 
-### **Data Preparation**
+## **Data Preparation**
 
 - Open **Power Query** and connect to *population-1950-1999*, *population-2000-2049* and *population-2050-2100*
 
@@ -33,9 +33,9 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/unpivot.png)
 
-### **Data Modeling**
+## **Data Modeling**
 
-#### DIM Region
+### DIM Region
 
 - Created a **Reference** from *population-combined* to create a *Dim-Region* table
 - Removed duplicates
@@ -49,4 +49,8 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 - A sample of the finished *DIM-Region* table:
 
-![]()
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/dim_region.png)
+
+### DIM Age
+
+- 
