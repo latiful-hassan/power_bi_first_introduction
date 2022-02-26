@@ -1,6 +1,6 @@
 # power_bi_introduction
 
-Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** and **Data Visualisation** using **Power BI** for the first time.
+Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** and **Data Visualisation** using **Power BI**.
 
 ## **Data Preparation**
 
@@ -65,6 +65,9 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 - A sample of the finished *DIM-Age* table:
 
-![]()
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/dim_age.png)
 
+### FACT Population
+
+- 
 
