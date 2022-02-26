@@ -35,4 +35,7 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ### **Data Modeling**
 
-- 
+#### DIM Region
+
+- Created a **Reference** from *population-combined* to create a *Dim-Region* table
+- Removed duplicates
