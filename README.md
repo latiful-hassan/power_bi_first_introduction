@@ -69,5 +69,10 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ### FACT Population
 
-- 
+- Created a **Reference** from *population-combined* to create a *FACT-Population* table
+- Merged *FACT_Population* with *DIM-Age* to import *Age ID*
+- Multiplied the *Population* column by 1000
 
+- A sample of the finished *FACT-Population* table:
+
+![]()
