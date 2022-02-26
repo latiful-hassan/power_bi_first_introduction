@@ -7,6 +7,7 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 - Open **Power Query** and connect to *population-1950-1999*, *population-2000-2049* and *population-2050-2100*
 
 - Below is an example of the raw data from 1950-1999:
+
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/population-1950-1999_raw.png)
 
 - Formatted data:
@@ -21,7 +22,8 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
   * Changed data types
   * Handled errors
 
-This is how the appended data looks like now:
+- This is how the appended data looks like now:
+
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/population_combined_formatted_p1.png)
 
 
