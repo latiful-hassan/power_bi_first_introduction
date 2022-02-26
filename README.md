@@ -35,6 +35,8 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ## **Data Modeling**
 
+I will be creating a ***Star Schema*** to create the data model, below are the steps taken.
+
 ### DIM Region
 
 - Created a **Reference** from *population-combined* to create a *Dim-Region* table
