@@ -39,3 +39,4 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 - Created a **Reference** from *population-combined* to create a *Dim-Region* table
 - Removed duplicates
+- Connected to the *codes-country-region* text file 
