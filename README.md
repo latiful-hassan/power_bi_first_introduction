@@ -2,7 +2,7 @@
 
 Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** and **Data Visualisation** using **Power BI** for the first time.
 
-**Data Preparation**
+### **Data Preparation**
 
 - Open **Power Query** and connect to *population-1950-1999*, *population-2000-2049* and *population-2050-2100*
 
