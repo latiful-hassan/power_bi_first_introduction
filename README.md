@@ -33,4 +33,4 @@ Documenting the steps taken in terms of **Data Preparation**, **Data Modeling** 
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/unpivot.png)
 
-- 
+**Data Modeling**
