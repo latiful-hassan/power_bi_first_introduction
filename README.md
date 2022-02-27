@@ -77,4 +77,6 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ## **Data Modeling**
 
-- 
+- In the **Model View** in Power BI, I created relationships on our tables via the respective IDs:
+
+![]()
