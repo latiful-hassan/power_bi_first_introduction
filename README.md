@@ -83,4 +83,8 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ## **Data Visualisation**
 
+- Below is an example of a basic line and bar bar:
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/basic_charts.png)
+
 - 
