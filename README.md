@@ -87,4 +87,8 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/basic_charts.png)
 
+- Here we can see an edited **Tooltip** where *AveragePopulation* is also shown at each point:
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/tooltips.png)
+
 - 
