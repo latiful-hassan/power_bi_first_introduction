@@ -95,4 +95,10 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/hierarchy.png)
 
-- 
+- Adding **Conditonal Formatting**:
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/conditional_formatting.png)
+
+- After some additional formatting to clean things up:
+
+![]()
