@@ -107,4 +107,8 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/treemap_%26_tables.png)
 
+- A page showing examples of various visuals (cards, multi-row cards, line chart, line and clustered column chart, waterfall):
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/combined_visuals.png)
+
 - 
