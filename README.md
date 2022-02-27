@@ -103,4 +103,8 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/additional_formatting.png)
 
+- Now created a new pages, visualising population by country and region, as well as, a table with age category:
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/treemap_%26_tables.png)
+
 - 
