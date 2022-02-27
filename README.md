@@ -101,4 +101,6 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 - After some additional formatting to clean things up:
 
-![]()
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/additional_formatting.png)
+
+- 
