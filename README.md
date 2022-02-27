@@ -91,4 +91,8 @@ I will be using a ***Star Schema*** to create the data model, below are the step
 
 ![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/tooltips.png)
 
+- Creating a **Hierarchy**:
+
+![](https://github.com/latiful-hassan/power_bi_introduction/blob/main/first_project_screenshots/hierarchy.png)
+
 - 
